@@ -1,0 +1,9 @@
+C:\Users\CVCF\Desktop\eje3\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\CVCF\Desktop\eje3\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\CVCF\Desktop\eje3\WindowsFormsApplication4\obj\Debug\ejercicio3.csprojAssemblyReference.cache
+C:\Users\CVCF\Desktop\eje3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\CVCF\Desktop\eje3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\CVCF\Desktop\eje3\WindowsFormsApplication4\obj\Debug\ejercicio3.csproj.GenerateResource.cache
+C:\Users\CVCF\Desktop\eje3\WindowsFormsApplication4\obj\Debug\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\CVCF\Desktop\eje3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\CVCF\Desktop\eje3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
